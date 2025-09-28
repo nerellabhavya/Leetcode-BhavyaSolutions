@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,8 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
