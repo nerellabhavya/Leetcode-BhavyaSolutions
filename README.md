@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
