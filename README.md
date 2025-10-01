@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
