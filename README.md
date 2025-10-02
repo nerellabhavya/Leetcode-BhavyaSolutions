@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3336-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
 |  |
 | ------- |
