@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
 ## Database
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
