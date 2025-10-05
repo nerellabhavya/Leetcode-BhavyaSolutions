@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -77,8 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
