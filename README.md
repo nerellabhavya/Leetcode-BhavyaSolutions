@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
+| [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Union Find
 |  |
 | ------- |
