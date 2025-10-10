@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Database
@@ -115,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
