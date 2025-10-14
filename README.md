@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0605-can-place-flowers) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Depth-First Search
