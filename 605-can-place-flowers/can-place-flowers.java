@@ -5,7 +5,7 @@ class Solution {
         if(flowerbed[i]==0){
             boolean left=(i==0||flowerbed[i-1]==0);
             boolean right=(i==flowerbed.length-1||flowerbed[i+1]==0);
-            if(left&&right){
+            if(left&&right==true){
                 flowerbed[i]=1;
                 n--;
             }
