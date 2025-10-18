@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0948-sort-an-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
