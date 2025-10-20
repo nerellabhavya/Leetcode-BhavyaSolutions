@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0605-can-place-flowers) |
+| [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0948-sort-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
