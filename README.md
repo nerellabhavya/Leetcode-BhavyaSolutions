@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0643-maximum-average-subarray-i) |
 ## Breadth-First Search
 |  |
 | ------- |
