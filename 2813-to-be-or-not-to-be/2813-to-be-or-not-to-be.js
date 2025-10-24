@@ -8,13 +8,13 @@ var expect = function(val) {
             if(val===val2){
                 return true;
             }
-            throw new Error("Not Equal");
+          else  throw new Error("Not Equal");
         },
         notToBe:function(val2){
             if(val!==val2){
                 return true;
             }
-            throw new Error("Equal");
+           else throw new Error("Equal");
         }
 
     }
