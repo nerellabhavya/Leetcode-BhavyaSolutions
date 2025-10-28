@@ -8,6 +8,9 @@ class Solution {
             nums[i]=nums[i]*-1;
             k--;
         }
+        else if(k>0){
+            break;
+        }
        }
        Arrays.sort(nums);
        if(k%2==1){
