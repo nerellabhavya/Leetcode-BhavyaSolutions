@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Depth-First Search
