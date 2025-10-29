@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0179-largest-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0120-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1236-n-th-tribonacci-number) |
