@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Prefix Sum
 |  |
