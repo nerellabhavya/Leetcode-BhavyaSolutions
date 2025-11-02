@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0605-can-place-flowers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0506-relative-ranks) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0948-sort-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0948-sort-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0948-sort-an-array) |
