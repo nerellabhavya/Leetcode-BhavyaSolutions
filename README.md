@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1833-find-the-highest-altitude) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1236-n-th-tribonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Depth-First Search
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Counting Sort
 |  |
 | ------- |
