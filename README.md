@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-find-the-highest-altitude](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1833-find-the-highest-altitude) |
+| [2058-concatenation-of-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2058-concatenation-of-array) |
 | [3336-water-bottles-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
