@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
