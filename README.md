@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
