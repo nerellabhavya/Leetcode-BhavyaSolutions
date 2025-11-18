@@ -3,15 +3,18 @@ class Solution {
         int n=nums.length;
         int count=0;
         int arr[]=new int[n];
+        int small[]=new int [102];
         for(int i=0;i<n;i++){
-            count=0;
-            for(int j=0;j<n;j++){
-                if(nums[i]>nums[j]&&j!=i){
-                    count++;
-                }
-            }
-            arr[i]=count;
-        }
-        return arr;
+            int x=nums[i];
+            small[x+1]++;      
+         }
+         for(int i=1;i<102;i++){
+            small[i]=small[i]+small[i-1];
+         }
+         for(int i=0;i<n;i++){
+            int x=nums[i];
+            arr[i]=small[x];
+         }
+         return arr;
     }
 }
