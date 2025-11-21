@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0168-excel-sheet-column-title) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1236-n-th-tribonacci-number) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Monotonic Stack
