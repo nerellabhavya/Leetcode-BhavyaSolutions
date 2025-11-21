@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0636-exclusive-time-of-functions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
