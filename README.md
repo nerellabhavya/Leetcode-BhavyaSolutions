@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1580-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0054-spiral-matrix) |
+| [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2058-concatenation-of-array) |
 | [3336-water-bottles-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3336-water-bottles-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
