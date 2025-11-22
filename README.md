@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0682-baseball-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2058-concatenation-of-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0636-exclusive-time-of-functions) |
+| [0682-baseball-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
