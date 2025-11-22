@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1580-shuffle-the-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-crawler-log-folder](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1720-crawler-log-folder) |
 | [1833-find-the-highest-altitude](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0680-valid-palindrome-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-crawler-log-folder](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1720-crawler-log-folder) |
 ## Counting Sort
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1720-crawler-log-folder](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
 |  |
 | ------- |
