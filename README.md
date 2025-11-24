@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1720-crawler-log-folder) |
 | [3174-clear-digits](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3174-clear-digits) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0636-exclusive-time-of-functions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1720-crawler-log-folder) |
 | [3174-clear-digits](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3174-clear-digits) |
