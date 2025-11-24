@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0948-sort-an-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
