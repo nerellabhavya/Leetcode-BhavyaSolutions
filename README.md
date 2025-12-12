@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1580-shuffle-the-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1720-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2000-reverse-prefix-of-word) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bucket Sort
 |  |
 | ------- |
