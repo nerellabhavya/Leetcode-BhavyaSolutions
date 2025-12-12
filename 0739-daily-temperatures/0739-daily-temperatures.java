@@ -5,8 +5,8 @@ class Solution {
         int ans[]=new int[n];
         for(int i=0;i<n;i++){
             while(!st.empty()&&temperatures[i]>temperatures[st.peek()]){
-                int idx=st.pop();
-                ans[idx]=i-idx;
+                ans[st.peek()]=i-st.peek();
+                st.pop();
 
             }
             st.push(i);
