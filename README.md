@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0739-daily-temperatures) |
