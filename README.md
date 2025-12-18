@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0455-assign-cookies) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1833-find-the-highest-altitude) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3616-make-array-elements-equal-to-zero) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
