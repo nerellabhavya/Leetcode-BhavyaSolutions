@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
