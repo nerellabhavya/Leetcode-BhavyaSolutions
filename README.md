@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0120-triangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Memoization
@@ -315,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
