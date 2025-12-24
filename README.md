@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0119-pascals-triangle-ii) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1025-divisor-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
