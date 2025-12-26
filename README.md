@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0496-next-greater-element-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0344-reverse-string) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0143-reorder-list) |
 ## Brainteaser
 |  |
