@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-build-an-array-with-stack-operations](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0794-swim-in-rising-water](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nerellabhavya/Leetcode-BhavyaSolutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Union Find
